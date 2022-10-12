@@ -4,8 +4,13 @@
 
 
 Storybook is here:
+<<<<<<< HEAD
 * Production: <https://ucsb-cs156-f22.github.io/jpa03-gianmarcojp-docs/>
 * QA:  <https://ucsb-cs156-f22.github.io/jpa03-gianmarcojp-docs-qa/>
+=======
+* Production: <https://ucsb-cs156-f22.github.io/STARTER-jpa03-docs/>
+* QA:  <https://ucsb-cs156-f22.github.io/STARTER-jpa03-docs-qa/>
+>>>>>>> 9d04a742614ba5c24e55076932aea15608863cb6
 
 The GitHub actions script to deploy the Storybook to QA requires some configuration; see [docs/github-actions.md](docs/github-actions.md) for details.
 
