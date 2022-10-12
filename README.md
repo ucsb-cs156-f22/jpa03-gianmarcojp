@@ -1,11 +1,9 @@
 # demo-spring-react-example-v2: dsre-v2
 
-[![codecov](https://codecov.io/gh/ucsb-cs156-f22/jpa03-gianmarcojp/branch/main/graph/badge.svg?token=AML6M3GGBV)](https://codecov.io/gh/ucsb-cs156-f22/jpa03-gianmarcojp)
-
 
 Storybook is here:
-* Production: <https://ucsb-cs156-f22.github.io/jpa03-gianmarcojp-docs/>
-* QA:  <https://ucsb-cs156-f22.github.io/jpa03-gianmarcojp-docs-qa>
+* Production: <https://ucsb-cs156-f22.github.io/STARTER-jpa03-docs/>
+* QA:  <https://ucsb-cs156-f22.github.io/STARTER-jpa03-docs-qa/>
 
 The GitHub actions script to deploy the Storybook to QA requires some configuration; see [docs/github-actions.md](docs/github-actions.md) for details.
 
